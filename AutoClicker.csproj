@@ -7,11 +7,11 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
 	<ForceDesignerDpiUnaware>true</ForceDesignerDpiUnaware>
-	<ApplicationIcon>cursor.ico</ApplicationIcon>
+	<ApplicationIcon>Resources\cursor.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="cursor.ico" />
+    <Content Include="Resources\cursor.ico" />
   </ItemGroup>
 
   <ItemGroup>
